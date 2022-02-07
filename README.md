@@ -5,6 +5,7 @@ CS 5150 project repo
 Testing Reviewboard
 
 Steps:
+
 0. Register on reviewboard website
 1. Clone this repository
 2. Verify that you have python3 and pip installed
